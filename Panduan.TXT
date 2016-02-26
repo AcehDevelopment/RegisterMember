@@ -1,0 +1,2 @@
+*Sistem ini dikembangkan untuk memudahkan setiap ormas dalam melakukan pendataan member yang bergabung, 
+dan sistem ini masih perlu di kembangkan
